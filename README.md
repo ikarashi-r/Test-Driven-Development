@@ -49,8 +49,9 @@ public int fibo(int idx)
 [「テスト駆動開発」](https://shop.ohmsha.co.jp/shopdetail/000000004967/)
 
 ### CodingBat
-https://codingbat.com/prob/p194781
-https://codingbat.com/prob/p183649
+- https://codingbat.com/prob/p194781
+
+- https://codingbat.com/prob/p183649
 
 テストケースが用意されているので、問題を解きながらテスト駆動開発を実践してみましょう。
 
